@@ -1,7 +1,5 @@
 # Efficient Subgraph Retrieval for Knowledge Graph-Enhanced LLMs
 
-CS 255 project — Venkat Anoop Karlapudi & Jayateerth Kamatgi
-
 Main artifact: `notebooks/kg_subgraph_retrieval.ipynb` (MetaQA KG loading + several subgraph retrieval methods + evaluation/plots).
 
 TransE-based retrieval: `notebooks/trans-E-v1.ipynb` and `notebooks/trans-E-v2.ipynb`. These improve on the 4 baselines.
